@@ -1,1 +1,7 @@
 url: "https://isanbily06.github.io"
+
+
+plugins:
+ - jekyll-feed
+ - jekyll-sitemap
+ - jekyll-seo-tag
