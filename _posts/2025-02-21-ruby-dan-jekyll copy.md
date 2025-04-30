@@ -19,7 +19,7 @@ Wikipedia
 
  <h4>Fungsi dan Kegunaan Jekyll</h4>
 Jekyll digunakan untuk:​
-<ul>
+<ul type="disc">
     <li>Membuat Blog dan Situs Pribadi: Dengan struktur yang sederhana, Jekyll memudahkan pembuatan blog dan situs pribadi tanpa perlu database.
 </li>
     <li>Dokumentasi Proyek: Banyak proyek open-source menggunakan Jekyll untuk dokumentasi karena kemudahan integrasinya dengan GitHub Pages.
@@ -29,4 +29,5 @@ Jekyll digunakan untuk:​
 </ul>
  Salah satu keunggulan utama Jekyll adalah kemampuannya untuk di-host langsung di GitHub Pages, memungkinkan pengembang untuk menerbitkan situs web tanpa perlu server tambahan.
 
-![HTML Link dan Lists](/assets/images/gambar-1.png)
+![HTML Link dan Lists](/assets/images/gambar-4.png)
+![HTML Link dan Lists](/assets/images/gambar-5.png)
