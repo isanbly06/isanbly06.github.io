@@ -1,17 +1,19 @@
 .current {
     color: green;
     padding: 5px 10px;
-    background-color: #4CAF50;
+    background-color: #0077B6;
     color: black;
     border: none;
     border-radius: 8px;
     cursor: pointer;
     font-size: 16px;
+    margin-bottom: 15px;
+    display: inline-block;
 }
 
 button {
     padding: 10px 20px;
-    background-color: #4CAF50;
+    background-color: #0077B6;
     color: rgb(0, 0, 0);
     border: none;
     border-radius: 8px;
@@ -20,12 +22,12 @@ button {
 }
 
 button:hover {
-    background-color: #45a049;
-    transform:scale(0.8) ;
+    background-color: #0077B6;
+    transform:scale(0.9) ;
     
 }
 table {
-    width: 100%; /* atau bisa spesifik contoh 600px */
+    width: 100%; 
     border-collapse: collapse;
     margin-bottom: 20px;
   }
@@ -46,4 +48,37 @@ table {
   td:last-child {
     width: 65%;
   }
+  .post-card {
+    background-color: #90E0EF;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  .post-card:hover {
+    transform: translate(-10px, -20px);
+  }
+  
+  
+  .post-title {
+    color: #007bff;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 0 0 10px;
+  }
+  
+  .post-description {
+    color: #333;
+  }
+  .table {
+    background-color: #90E0EF;
+    padding: 1px 10px;
+    border-radius: 12px 20px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+ 
   
