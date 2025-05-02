@@ -5,6 +5,7 @@ title: friends
 
 # friend page
 Berikut adalah nama teman saya beserta link yang mengarahkan ke dalam github masing-masing teman saya di kelas TI 1E:
+
 1. [Abadan Syakira](https://abadan1912.github.io/)
 2. [Desi Nabila Sari](https://desynabilasari.github.io)
 3. [Deswita Nazwa Ariani](https://deswitanazwa.github.io/)
@@ -23,7 +24,7 @@ Berikut adalah nama teman saya beserta link yang mengarahkan ke dalam github mas
 16. [Rahmat Hidayat](https://dayat-yat.github.io/dayatyat.github.io/)
 17. [Ridho Ryan Ghifari](https://ridhoryanghifari.github.io/)
 18. [Rizki Al Fatah](https://riskialfattah.github.io//)
-19. [Salwa](link)
+19. [Salwa](https://salwaiska027.github.io)
 20. [Siti Azzahra](https://sitiazzahraaa.github.io/sitiazzahra.github.io/)
 21. [Siti Hajar](https://sitihajar01.github.io/sitihajar.github.io/)
 22. [Syakila Athaya Aufa](https://athayaaufa18.github.io/)
