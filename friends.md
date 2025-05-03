@@ -12,7 +12,7 @@ Berikut adalah nama teman saya beserta link yang mengarahkan ke dalam github mas
 4. [Dwi Ida Rahmadani Situmorang](https://dwiidarahmadanisitumorang.github.io)
 5. [Fitri Ramadhani](https://fitriramadhani20.github.io/)
 6. [Jihan Maulidia](https://jihanmaulidia09.github.io/)
-7. [Mirza Feberani](https://mirzafeberanyy.github.io/mirzafeberany.github.io/)
+7. [Mirza Feberani](https://mirzafeberanyy.github.io)
 8. [Muhammad Alfisyahrin Muzhaffar](https://alfisyahrin-26.github.io/)
 9. [Muhammad Alif Arrayyan](https://alifarrayyan29.github.io/)
 10. [Muhammad Aziz](https://mhmmd-aziz.github.io/)
