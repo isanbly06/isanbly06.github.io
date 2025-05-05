@@ -31,6 +31,6 @@ Berikut adalah nama teman saya beserta link yang mengarahkan ke dalam github mas
 23. [Tania Ananda sari](https://taniaanandasari.github.io/)
 24. [Tm Dzaky Maulana](https://akbar2224.github.io/akbar2224/)
 25. [Wildanun Hasanah](https://wildanunhasanah.github.io/)
-26. [Yumna](link)
+26. [Yumna](https://yumna1711.github.io/yumnaa.github.io/)
 27. [Zamharira](https://zamharira09.github.io/)
 
